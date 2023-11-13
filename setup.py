@@ -5,7 +5,7 @@ setuptools.setup(
     name='NikilPrasad',
     version='0.0.1',
     description='limeguru python module',
-    url='https://github.com/limegurutech/examples/tree/main/python/pip%20installable%20package',
+    url='https://github.com/NikilPrasad/nikildsshw.git',
     author='NikilPrasad',
     author_email='contact@NikilPrasad.com',
     packages=setuptools.find_packages(),
