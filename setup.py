@@ -2,9 +2,9 @@ import setuptools
 
 setuptools.setup(
     include_package_data=True,
-    name='NikilPrasad',
+    name='math_quiz',
     version='0.0.1',
-    description='limeguru python module',
+    description='NikilPrasad python module',
     url='https://github.com/NikilPrasad/nikildsshw.git',
     author='NikilPrasad',
     author_email='contact@NikilPrasad.com',
