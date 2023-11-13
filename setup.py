@@ -1,11 +1,15 @@
 from setuptools import setup
 
 setup(
-    name='My First Setup File',
-    version='1.0',
-    scripts=['math_quiz.py'],
+    name='math_quiz',
+    version='0.1',
+    packages=find_packages(),
+    entry_points={
+        'console_scripts': [
+            'math_quiz = math_quiz.quiz:main'
+        ]
+    },
 )
-
 
 
 
